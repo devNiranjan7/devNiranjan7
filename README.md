@@ -52,9 +52,6 @@ Hey there! I'm **Dev Niranjan**, a passionate **Frontend Developer** and **UI De
 
   <!-- Top Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devNiranjan7&layout=compact&langs_count=6&theme=tokyonight&hide_border=false" height="150" alt="Top Languages Used" />
-
-  <!-- GitHub Streak (Vercel Proxy) -->
-  <img src="https://streak-stats.demolab.com?user=devNiranjan7&theme=tokyonight&hide_border=false" height="150" alt="GitHub Streak" />
 </div>
 
 ### 💬 Let's Talk
