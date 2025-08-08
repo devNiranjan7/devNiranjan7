@@ -42,7 +42,7 @@ Hey there! I'm **Dev Niranjan**, a passionate **Frontend Developer** and **UI De
 <img src="https://skillicons.dev/icons?i=figma" />
 
 **Tools & Platforms:**  
-<img src="https://skillicons.dev/icons?i=github,git,vercel,vscode" />
+<img src="https://skillicons.dev/icons?i=github,git,vercel,vscode, notion" />
 
 ### 📊 GitHub Stats
 
